@@ -36,6 +36,7 @@ public class Customer {
 		System.out.println(a);
 		this.firstName = firstName;
 		this.lastName = lastName;
+		String a = "Dies ist ein Test";
 	}
 
 	public String getId() {
