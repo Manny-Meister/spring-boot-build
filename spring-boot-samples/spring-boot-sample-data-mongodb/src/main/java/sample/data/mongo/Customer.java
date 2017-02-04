@@ -26,6 +26,7 @@ public class Customer {
 	private String firstName;
 	private String lastName;
 	private String lastName2;
+	private String lastName3;
 
 	public Customer() {
 	}
